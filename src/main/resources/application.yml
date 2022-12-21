@@ -1,7 +1,7 @@
 ---
 spring:
   application:
-    name: lab-4-sentence
+    name: lab-6-sentence
 
 eureka:
   client:
